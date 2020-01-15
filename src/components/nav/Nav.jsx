@@ -14,7 +14,7 @@ class Nav1 extends Component {
         <Navbar.Brand to="/">Taste The Magic</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
-        <Nav.Link><NavLink to="/">Home</NavLink></Nav.Link>
+        <Nav.Link><NavLink to="/project-3-second">Home</NavLink></Nav.Link>
         <Nav.Link><NavLink to="/Parks">Parks</NavLink></Nav.Link>
         <Nav.Link><NavLink to="/Exper">Experiences</NavLink></Nav.Link>
         </Navbar.Collapse>
