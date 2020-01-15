@@ -6,7 +6,7 @@
 
 # Taste the Magic
 This project is basically a react based website that shows restaurents around disneyworld orlando, in addition to people posting there own experiences and images.
-## My Project Deployment
+## Our Project Deployment
 https://sei-thenet.github.io/project-3-second
 ## Technologies used in the project
 1. JavaScript
