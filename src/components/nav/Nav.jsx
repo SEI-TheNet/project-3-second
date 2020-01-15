@@ -4,10 +4,11 @@ import 'bootstrap/dist/css/bootstrap.css';
 import { NavLink } from 'react-router-dom'
 import {Nav} from 'react-bootstrap'
 import {Navbar} from 'react-bootstrap'
+
 class Nav1 extends Component {
     state = {  }
     render() { 
-        return (        <div className="Nav">
+        return (        <div className="Nav topnav">
 
         <Navbar bg="light" expand="lg">
         <Navbar.Brand to="/">Taste The Magic</Navbar.Brand>

@@ -4,7 +4,7 @@
     background-image: url("./home.JPG") ; 
     position: relative; 
     background-size: cover; }
-.page-caption { padding-top: 170px; padding-bottom: 174px; }
+.page-caption { padding-top: 160px; padding-bottom: 174px; }
 .page-title { font-size: 69px; line-height: 1; color:#4a73d4; font-weight: 600; text-align: center; font-family: 'Norican', cursive; text-shadow: grey 1px 5px 5px; }
 .card-section { position: relative; bottom: 60px;
  }
