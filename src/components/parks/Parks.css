@@ -1,0 +1,28 @@
+.parks-container {
+    position: relative;
+   
+}
+
+.parks-container ul{
+    position: absolute;
+    overflow: hidden;
+    top:10px;
+    padding: 0;
+    width: 100%;
+}
+.parks-container a {
+    color:white;
+}
+
+.project-hover h1,hr{
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+}
+.new  h1{
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+    color:white;
+    font-weight: bolder;
+}
