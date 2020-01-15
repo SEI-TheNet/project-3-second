@@ -6,9 +6,6 @@ class Park extends Component {
     state = {  }
     render() { 
 
-
-       
-      
         return ( <p>
        {this.props.park}
         </p> );

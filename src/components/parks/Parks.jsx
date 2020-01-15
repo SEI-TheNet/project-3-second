@@ -41,14 +41,14 @@ this.setState({ ...this.state,visible: !this.state.visible})
      {/* <h1 onClick={this.showLands} ><Park park={this.state.park}/></h1> */}
   
   	<div className={`col-xl-3 col-lg-3 col-md-3 col-sm-3 project project-${this.state.ind} wow animated animated3 fadeInLeft parks-container`}>
-    	<div className="project-hover" >
+    	<div onClick={this.showLands} className="project-hover" >
       
   
             <hr />
      
         </div>
-        <div className="new">
-        <h1 onClick={this.showLands} ><Park park={this.state.park}/></h1>
+        <div  className="new">
+        <h1  ><Park park={this.state.park}/></h1>
         </div>
         {showHide}
     </div>

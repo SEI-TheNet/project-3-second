@@ -1,8 +1,6 @@
 .parks-container {
     position: relative;
-   
 }
-
 .parks-container ul{
     position: absolute;
     overflow: hidden;
@@ -12,8 +10,8 @@
 }
 .parks-container a {
     color:white;
+    text-shadow: black 1px 2px 1px;
 }
-
 .project-hover h1,hr{
     position: absolute;
     bottom: 0;
@@ -25,4 +23,5 @@
     left: 0px;
     color:white;
     font-weight: bolder;
+    text-shadow: black 2px 2px 1px;
 }
