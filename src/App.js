@@ -26,7 +26,7 @@ render(){
   return (
     <div className="App">
  <Route path='/' component={ Nav }/>
- <Route exact path='/' component={ Home }/>
+ <Route exact path='/project-3-second/' component={ Home }/>
  <Route exact path='/Parks'  render={() => <div className="container-fluid">{this.state.parks.map(res => <Parks parks={this.state.parks} park={res.name} lands={res.lands} ind={this.state.parks.indexOf(res)}/>)}</div>} />
  <Route exact path='/lands/:id'  render={(props) =>  <Land {...props} land={props.id}/>}/>
  <Route exact path='/Exper' component={ Exper }/>
