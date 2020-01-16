@@ -16,7 +16,9 @@ https://sei-thenet.github.io/project-3-second
 
 ## wireframes and user stories.
 
-
+![Wireframe](images/wireframe1.jpg)
+![Wireframe](images/wireframe2.jpg)
+![Planning](images/wireframe3.jpg)
 
 1. The user should be able to view the parks in orlando.
 2. The user should be able to click on any park he likes and a list of lands should appear.
